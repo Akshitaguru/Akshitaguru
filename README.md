@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshitaguru
 - 👀 I’m interested in artifical intelligence
-- 🌱 I’m currently learning AL / ML / Coding
+- 🌱 I’m currently learning AI / ML / Coding
 - 💞️ I’m looking to collaborate on projects and on upgrading my skills and knowledge 
 - 📫 How to reach me email: akshitaguru16@gmail.com
 
