@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshita Guru
-- 👀 I’m interested in artifical intelligence
-- 🌱 I’m currently learning ML / web development
+- 👀 I’m interested in developing new skills
+- 🌱 I’m currently learning web development and machine learning
 - 💞️ I’m looking to collaborate on projects and on upgrading my skills and knowledge 
 - 📫 How to reach me email: akshitaguru16@gmail.com
 
